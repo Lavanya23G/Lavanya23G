@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there! I'm Lavanya Gupta
 
-<!--
-**Lavanya23G/Lavanya23G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year Computer Engineering student at MIET  
+💡 Passionate about:  
+- 📊 Data Analysis & Visualization  
+- 💻 Real-time Problem Solving  
+- 🌐 Frontend Web Development
+- 
 
-Here are some ideas to get you started:
+🚀 Always eager to learn new tools & technologies  
+📫 Let's connect:  
+[LinkedIn](https://www.linkedin.com/feed/) [Email](lavanyagupta1923@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyagupta&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyagupta&layout=compact&theme=radical)
+
